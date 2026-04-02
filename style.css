@@ -14,6 +14,30 @@
   --radius: 12px;
 }
 
+.site-header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.site-title a {
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+}
+
+.main-nav {
+  margin-top: 15px;
+}
+
+.main-nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+}
+
+
 body {
   font-family: 'Inter', system-ui, sans-serif;
   font-size: 16px;
